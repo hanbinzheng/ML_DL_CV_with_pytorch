@@ -57,3 +57,14 @@
 - 学习3DGS相关并且记录笔记（约1-2万字）
 - 学习CS236（斯坦福最新的深度生成模型课程），并且记录笔记约4-6万字
 - 对EEECS498的内容进行精简和优化，删除原始笔记中的部分内容（如删除numpy的代码，更新为pytorch代码等等）
+
+# 2026年更新计划
+
+- 根据新版CS231N更新笔记
+- 更新强化学习笔记（目前在主页另一仓库中）
+- 更新CS336笔记
+- 尝试加入手撕GPT架构的笔记
+
+# Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Michael-Jetson/ML_DL_CV_with_pytorch&type=date&legend=top-left)](https://www.star-history.com/#Michael-Jetson/ML_DL_CV_with_pytorch&type=date&legend=top-left)
